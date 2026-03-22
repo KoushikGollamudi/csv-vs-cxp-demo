@@ -28,3 +28,19 @@ to design a cryptographic account recovery protocol that works
 with zero prior setup, solving the last remaining problem in 
 passwordless authentication.
 
+## Sample Output
+
+**Act 1 — Attacker sees everything instantly:**
+
+
+
+![Act 1](act1_attacker.png)
+
+
+
+**Act 2 — Attacker sees only gibberish:**
+
+
+
+![Act 2](act2_attacker.png)
+
