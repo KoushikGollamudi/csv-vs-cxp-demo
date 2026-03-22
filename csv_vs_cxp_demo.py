@@ -335,7 +335,7 @@ def act_three_comparison():
     print()
 
     banner("DEMO COMPLETE — ZEROKEY PROJECT | 2026", CYAN)
-    print(f"  {DIM}Built by Koushik | github.com/[your-handle]{RESET}\n")
+    print(f"  {DIM}Built by Koushik | github.com/[KoushikGollamudi]{RESET}\n")
 
 
 # ════════════════════════════════════════════════════════════
